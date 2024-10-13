@@ -60,7 +60,7 @@ This API powers a news aggregator application that allows users to personalize t
       * Request body:
         ```json
         {
-          "username": "your_username",
+          "email": "your_email",
           "password": "your_password",
           // ... other user details
         }
@@ -74,7 +74,7 @@ This API powers a news aggregator application that allows users to personalize t
       * Request body:
         ```json
         {
-          "username": "your_username",
+          "email": "your_email",
           "password": "your_password" 
         }
         ```
